@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">FortuneCookie</string>
+    <string name="share">Compartir</string>
+    <string name="reload">Recargar frase</string>
+    <string name="copy">Copiar</string>
+    <string-array name="frases">
+        <item>Estàs preparat? Ara és el moment! No et rendeixis. El millor de la teva vida està a punt arribar</item>
+        <item>Sigues tu mateix. Els altres llocs ja estan ocupats</item>
+        <item>Ningú aconsegueix la meta amb un sol intent. Ni perfecciona la vida amb una sola rectificació, ni arriba a prendre altura amb un sol vol. Ningú camina per la vida sense haver trepitjat en fals moltes vegades</item>
+        <item>El fracàs és part de la vida, si no fracasses, no aprens i si no aprens, no canvies</item>
+        <item>No estic dient que sigui fàcil. Estic dient que valdrà la pena</item>
+        <item>Si lluites pots perdre, si no lluites estàs perdut. Única lluita que es perd és la que abandones</item>
+        <item>Un té èxit perquè algú, alguna vegada, li van donar una oportunitat</item>
+        <item>Un optimista sempre té un projecte. Un pessimista, una excusa</item>
+        <item>No tota relliscada significa una caiguda</item>
+        <item>Deixa de preocupar perquè precisament el que preocupa és el que més et sotmet</item>
+    </string-array>
 </resources>
